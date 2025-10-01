@@ -12,6 +12,12 @@ body {
     background-color: #fff;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -605,7 +611,7 @@ body {
 
 .doctors-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 40px;
 }
 
