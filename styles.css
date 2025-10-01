@@ -234,6 +234,26 @@ img {
     transition: transform 0.3s ease;
 }
 
+/* Specialty card with background image */
+.specialty-card.bg-image {
+    position: relative;
+    color: #123;
+    overflow: hidden;
+}
+
+.specialty-card.bg-image::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url('logo.png') center/cover no-repeat;
+    opacity: 0.12;
+}
+
+.specialty-card.bg-image > * {
+    position: relative;
+    z-index: 1;
+}
+
 .specialty-card:hover {
     transform: translateY(-10px);
 }
