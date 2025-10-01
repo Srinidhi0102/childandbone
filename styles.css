@@ -505,6 +505,53 @@ img {
         grid-template-columns: 1fr;
         text-align: center;
     }
+
+    /* About page mobile improvements */
+    .about-hero-content h1 {
+        font-size: 2.2rem;
+    }
+
+    .our-story {
+        padding: 60px 0;
+    }
+
+    .story-content {
+        gap: 30px;
+    }
+
+    .story-logo {
+        max-width: 220px;
+    }
+
+    .doctors {
+        padding: 60px 0;
+    }
+
+    .doctor-card {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 24px;
+    }
+
+    .doctor-image .image-placeholder {
+        width: 120px;
+        height: 120px;
+        padding: 28px;
+        margin: 0 auto;
+    }
+
+    .doctor-info h3 {
+        font-size: 1.5rem;
+    }
+
+    .specialty-tags {
+        gap: 8px;
+    }
+
+    .tag {
+        font-size: 0.85rem;
+        padding: 6px 12px;
+    }
 }
 
 /* About Page Styles */
@@ -1325,11 +1372,15 @@ img {
     
     .about-hero-content h1,
     .contact-hero-content h1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     .story-text h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
+    }
+    
+    .story-logo {
+        max-width: 180px;
     }
     
     .doctor-card {
