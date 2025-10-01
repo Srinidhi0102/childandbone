@@ -245,8 +245,15 @@ img {
     content: '';
     position: absolute;
     inset: 0;
-    background: url('peds.png') center/cover no-repeat;
     opacity: 0.12;
+}
+
+.specialty-card.bg-image.bg-image-peds::before {
+    background: url('peds.png') center/cover no-repeat;
+}
+
+.specialty-card.bg-image.bg-image-ortho::before {
+    background: url('ortho.png') center/cover no-repeat;
 }
 
 .specialty-card.bg-image > * {
