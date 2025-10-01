@@ -556,7 +556,7 @@ img {
 
 /* About Page Styles */
 .about-hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     color: white;
     padding: 120px 0 80px;
     margin-top: 70px;
@@ -820,7 +820,7 @@ img {
 
 /* Contact Page Styles */
 .contact-hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     color: white;
     padding: 120px 0 80px;
     margin-top: 70px;
