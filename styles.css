@@ -53,7 +53,7 @@ img {
 .logo {
     width: 40px;
     height: 40px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -84,7 +84,7 @@ img {
 
 .nav-link:hover,
 .nav-link.active {
-    color: #667eea;
+    color: #00aeda;
 }
 
 .nav-link::after {
@@ -94,7 +94,7 @@ img {
     left: 0;
     width: 0;
     height: 2px;
-    background: #667eea;
+    background: #00aeda;
     transition: width 0.3s ease;
 }
 
@@ -119,7 +119,7 @@ img {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     color: white;
     padding: 120px 0 80px;
     margin-top: 70px;
@@ -181,7 +181,7 @@ img {
 
 .btn-secondary:hover {
     background: #fff;
-    color: #667eea;
+    color: #00aeda;
 }
 
 .hero-image {
@@ -241,7 +241,7 @@ img {
 .specialty-icon {
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -304,7 +304,7 @@ img {
 .feature-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -328,7 +328,7 @@ img {
 
 /* CTA Section */
 .cta {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     color: white;
     padding: 80px 0;
     text-align: center;
@@ -428,7 +428,7 @@ img {
 }
 
 .social-links a:hover {
-    background: #667eea;
+    background: #00aeda;
     transform: translateY(-3px);
 }
 
@@ -440,7 +440,7 @@ img {
 }
 
 .contact-info i {
-    color: #667eea;
+    color: #00aeda;
     width: 20px;
 }
 
@@ -682,7 +682,7 @@ img {
     height: 150px;
     border-radius: 50%;
     padding: 40px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     color: white;
     display: flex;
     flex-direction: column;
@@ -750,7 +750,7 @@ img {
     content: '•';
     position: absolute;
     left: 0;
-    color: #667eea;
+    color: #00aeda;
     font-weight: bold;
 }
 
@@ -761,8 +761,8 @@ img {
 }
 
 .tag {
-    background: #f0f2ff;
-    color: #667eea;
+    background: #e8fbff;
+    color: #0098d9;
     padding: 5px 15px;
     border-radius: 20px;
     font-size: 0.9rem;
@@ -796,7 +796,7 @@ img {
 .value-icon {
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -865,7 +865,7 @@ img {
 .contact-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -984,7 +984,7 @@ img {
     font-size: 3rem;
     margin-bottom: 15px;
     display: block;
-    color: #667eea;
+    color: #00aeda;
 }
 
 .map-info h3 {
@@ -1115,7 +1115,7 @@ img {
 .service-icon {
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -1159,7 +1159,7 @@ img {
 .service-card-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -1228,7 +1228,7 @@ img {
 .additional-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #00c2ff 0%, #0098d9 100%);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -1311,13 +1311,13 @@ img {
     content: '✓';
     position: absolute;
     left: 0;
-    color: #667eea;
+    color: #00aeda;
     font-weight: bold;
 }
 
 .insurance-note {
     font-style: italic;
-    color: #667eea;
+    color: #00aeda;
     margin-top: 20px;
 }
 
