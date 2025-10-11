@@ -1,4 +1,4 @@
-# Child & Bone Medical Center Website
+# Bone & Child Medical Center Website
 
 A professional medical website for a combined pediatric and orthopedic practice.
 
@@ -83,7 +83,7 @@ The website is fully responsive and works on:
 The website includes placeholder contact information that you should update:
 - **Address**: 123 Medical Center Dr, City, State 12345
 - **Phone**: (123) 456-7890
-- **Email**: info@childandbone.com
+- **Email**: info@boneandchild.com
 
 ## 🎯 Next Steps
 
