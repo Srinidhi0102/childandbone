@@ -1064,6 +1064,31 @@ img {
     font-weight: 500;
 }
 
+.map-links {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.map-link-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #00aeda;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.map-link-btn:hover {
+    background: #0098d9;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 174, 218, 0.3);
+}
+
 .map-placeholder i {
     font-size: 3rem;
     margin-bottom: 15px;
