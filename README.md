@@ -81,7 +81,7 @@ The website is fully responsive and works on:
 ## 📞 Contact Information Template
 
 The website includes placeholder contact information that you should update:
-- **Address**: 123 Medical Center Dr, City, State 12345
+- **Address**: Bone & Child Clinic, Mumbai, India
 - **Phone**: (123) 456-7890
 - **Email**: info@boneandchild.com
 
