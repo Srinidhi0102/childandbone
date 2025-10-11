@@ -975,6 +975,11 @@ img {
     align-items: start;
 }
 
+.map-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .contact-form-container h2 {
     font-size: 2rem;
     font-weight: 700;
